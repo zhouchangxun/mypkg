@@ -1,0 +1,24 @@
+{
+  "name": "mypkg",
+  "version": "1.0.0",
+  "description": "test npm pkg diy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouchangxun/mypkg.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "pkg"
+  ],
+  "author": "zhouchangxun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhouchangxun/mypkg/issues"
+  },
+  "homepage": "https://github.com/zhouchangxun/mypkg#readme"
+}
